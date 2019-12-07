@@ -3,6 +3,6 @@ package java_code;
 public class Person {
 
     int age;
-    String firstName;
-    String address;
+    private String firstName;
+    private String address;
 }
