@@ -6,6 +6,9 @@ public class Person {
     private String firstName;
     private String address;
 
+    private String city;
+    private String country;
+
     public  Person(int age){
         this.age=age;
     }
