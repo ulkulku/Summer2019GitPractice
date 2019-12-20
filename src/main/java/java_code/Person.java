@@ -13,11 +13,7 @@ public class Person {
         this.age=age;
     }
 
-    public static void main(String[] args) {
-        
-        String name = "albert";
-        System.out.println(name);
-    }
+
 
 
 }
