@@ -1,0 +1,11 @@
+ankara
+istanbul
+izmir
+bursa
+erzurum
+eskisehir
+giresun
+maras
+mugla
+selcuk
+
