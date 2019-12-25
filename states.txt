@@ -6,3 +6,6 @@ erzurum
 eskisehir
 giresun
 maras
+mugla
+selcuk
+
